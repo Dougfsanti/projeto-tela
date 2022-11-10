@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+::-webkit-scrollbar{
+width: 0px;
+height: 0px;
+}
+
+img{
+width: 100vw;
+
+}
+
+a{
+display: block;
+background-color: rgb(52, 96, 218);
+padding: 20px;
+color: black;
+text-align: center;
+font-weight: bolder;
+text-decoration: none;
+}
+
+a:hover{
+background-color: rgba(71, 71, 190, 0.534);
+color: aliceblue;
+}
